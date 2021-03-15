@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1578965924 source:d:\joc ip\alae\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1578733370 source:d:\joc ip\alae\cea mai noua versiune\alae\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
